@@ -6,18 +6,21 @@ tags:
   - Markdown
   - Cover Image
 cover_image: ../../static/images/uploads/proxy_form.png
-description: Markdown is intended to be as easy-to-read and easy-to-write as is
-  feasible. Readability, however, is emphasized above all else. A
-  Markdown-formatted document should be publishable as-is, as plain text,
-  without looking like it's been marked up with tags or formatting instructions.
+description: >-
+  <!--StartFragment-->
+
+
+  Literally "for health" or "to \[your] health", see *na, zdrowie*. Compare Czech na zdraví, Slovak na zdravie, Serbo-Croatian nazdraviti (literally “to toast”).
+
+
+  <!--EndFragment-->
 ---
+<!--StartFragment-->
 
-Readability, however, is emphasized above all else. A Markdown-formatted
-document should be publishable as-is, as plain text, without looking
-like it's been marked up with tags or formatting instructions. 
+[Na zdrowie](https://www.urbandictionary.com/define.php?term=Na%20zdrowie)
 
-While Markdown's syntax has been influenced by several existing text-to-HTML filters -- including [Setext](http://docutils.sourceforge.net/mirror/setext.html), [atx](http://www.aaronsw.com/2002/atx/), [Textile](http://textism.com/tools/textile/), [reStructuredText](http://docutils.sourceforge.net/rst.html),
-[Grutatext](http://www.triptico.com/software/grutatxt.html), and [EtText](http://ettext.taint.org/doc/) -- the single biggest source of
-inspiration for Markdown's syntax is the format of plain text email.
+[Polish](https://www.urbandictionary.com/define.php?term=Polish) word for [cheers](https://www.urbandictionary.com/define.php?term=cheers). Literally: "to your [health](https://www.urbandictionary.com/define.php?term=health)"
 
+A traditional [toast](https://www.urbandictionary.com/define.php?term=toast) [prior to](https://www.urbandictionary.com/define.php?term=prior%20to) drinking beer or vodka. [Prior to](https://www.urbandictionary.com/define.php?term=Prior%20to) drinking the beer or any other alcoholic beverage, one would say "Na zdrowie," typically followed with a response by others saying the same.
 
+<!--EndFragment-->
