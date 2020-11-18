@@ -10,7 +10,7 @@ description: >-
   <!--StartFragment-->
 
 
-  Literally "for health" or "to \[your] health", see *na, zdrowie*. Compare Czech na zdraví, Slovak na zdravie, Serbo-Croatian nazdraviti (literally “to toast”).
+  Literally "for health" or "to \[your] health", see *na, zdrowie*. Compare Czech na zdraví, Slovak na zdravie, Serbo-Croatian nazdraviti (literally “to toast”).  
 
 
   <!--EndFragment-->
